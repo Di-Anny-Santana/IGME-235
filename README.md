@@ -1,2 +1,3 @@
 # IGME-235
-This repository is for IGME 235.
+My name is Di'Anny Santana.
+This repository is for my IGME 235 class.

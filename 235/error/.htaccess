@@ -1,0 +1,3 @@
+ErrorDocument 404 /dss2384/235/error/error.html
+
+DirectoryIndex noterror.html
